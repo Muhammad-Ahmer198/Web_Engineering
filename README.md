@@ -1,4 +1,203 @@
-# frontend
+# Transcripto AI
+
+Transcripto AI is a frontend web application developed using Vue 3 and Vite that converts audio and video files into text transcripts. The project demonstrates a modern Single Page Application (SPA) architecture using Vue Router and reusable Vue components.
+
+---
+![image alt](
+## Features
+
+- Home Page
+- About Page
+- Upload Audio/Video Files
+- Transcript Management
+- Login Page
+- Registration Page
+- Responsive User Interface
+- Vue Router Navigation
+- Component-Based Architecture
+
+---
+
+## Technologies
+
+- Vue 3
+- Vite
+- Vue Router
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## Project Structure
+
+```
+src
+│
+├── assets
+├── components
+│   ├── Navbar.vue
+│   ├── Footer.vue
+│   ├── HeroSection.vue
+│   ├── UploadCard.vue
+│   ├── TranscriptCard.vue
+│   └── EmptyState.vue
+│
+├── router
+│   └── index.js
+│
+├── views
+│   ├── HomeView.vue
+│   ├── AboutView.vue
+│   ├── UploadView.vue
+│   ├── TranscriptView.vue
+│   ├── LoginView.vue
+│   ├── RegisterView.vue
+│   └── NotFound.vue
+│
+├── App.vue
+└── main.js
+```
+
+---
+
+## Application Pages
+
+### Home
+
+Landing page introducing Transcripto AI.
+
+### About
+
+Displays project overview, mission, vision, and objectives.
+
+### Upload
+
+Allows users to upload supported audio and video files.
+
+Supported formats:
+
+- MP3
+- WAV
+- MP4
+- M4A
+
+### Transcripts
+
+Displays generated transcripts with:
+
+- Status
+- Duration
+- Language
+- Download
+- View
+
+### Login
+
+Authentication page.
+
+### Register
+
+User registration page.
+
+---
+
+## Vue Router
+
+Routes include:
+
+- /
+- /about
+- /upload
+- /transcripts
+- /login
+- /register
+- *
+
+---
+
+## Component Architecture
+
+- Navbar
+- Footer
+- HeroSection
+- UploadCard
+- TranscriptCard
+- EmptyState
+
+The project follows reusable component architecture.
+
+---
+
+## Installation
+
+Clone repository
+
+```bash
+git clone https://github.com/yourusername/transcripto-ai.git
+```
+
+Go inside project
+
+```bash
+cd transcripto-ai
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run development server
+
+```bash
+npm run dev
+```
+
+Open
+
+```
+http://localhost:5173
+```
+
+---
+
+## Future Improvements
+
+- Express.js Backend
+- MongoDB Database
+- JWT Authentication
+- Speech-to-Text API
+- User Dashboard
+- Transcript Search
+- File Storage
+
+---
+
+## Screenshots
+
+- Home Page
+- About Page
+- Upload Page
+- Login Page
+- Transcript Page
+
+---
+
+## Author
+
+Ahmer Irfan
+
+Department of Software Engineering
+
+University of Sialkot
+
+---
+
+## License
+
+This project is developed for Semester Project (Deliverable 1) at the University of Sialkot.# frontend
 
 This template should help get you started developing with Vue 3 in Vite.
 
