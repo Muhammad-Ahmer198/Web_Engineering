@@ -66,14 +66,14 @@ src
 ### Home
 
 Landing page introducing Transcripto AI.
-![image alt]
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/310f77ca1de71e311c6f054a819f4fe338d2b965/a4.jpg)
 
 ### About
 
 Displays project overview, mission, vision, and objectives.
 
 ### Upload
-
+![image alt]
 Allows users to upload supported audio and video files.
 
 Supported formats:
