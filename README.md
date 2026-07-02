@@ -3,7 +3,7 @@
 Transcripto AI is a frontend web application developed using Vue 3 and Vite that converts audio and video files into text transcripts. The project demonstrates a modern Single Page Application (SPA) architecture using Vue Router and reusable Vue components.
 
 ---
-![image alt](
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/6fbad7d68f1d2fbfff580864427dd6d4dcf6a5cf/a3.jpg)
 ## Features
 
 - Home Page
