@@ -30,7 +30,7 @@ Transcripto AI is a frontend web application developed using Vue 3 and Vite that
 ---
 
 ## Project Structure
-
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/3e61d7c977b8672fc5416e4d1c8f437487a8bcc7/a8.jpg)
 ```
 src
 │
@@ -66,6 +66,7 @@ src
 ### Home
 
 Landing page introducing Transcripto AI.
+![image alt]
 
 ### About
 
