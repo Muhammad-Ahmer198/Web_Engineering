@@ -73,7 +73,7 @@ Landing page introducing Transcripto AI.
 Displays project overview, mission, vision, and objectives.
 
 ### Upload
-![image alt]
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/3b1ee1a1d68ace9de26716570bdf9f87c84c8485/a7.jpg)
 Allows users to upload supported audio and video files.
 
 Supported formats:
