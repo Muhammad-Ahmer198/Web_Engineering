@@ -94,7 +94,7 @@ Displays generated transcripts with:
 - View
 
 ### Login
-
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/ca1a5d52bf92590d13e39b44d183ff7d392fa498/a6.jpg)
 Authentication page.
 
 ### Register
