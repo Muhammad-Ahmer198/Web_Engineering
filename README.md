@@ -78,7 +78,7 @@ function uploadFile() {
  
 6. Project Structure
 The screenshot below shows the folder and file organization of the Transcripto AI codebase as viewed in the module dependency graph / project explorer.
-![image alt]()
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/6254f4e01cee90ccea217a1ba873689e00969b54/a5.jpg)
 7. User Interface — Screenshots
 7.1 Home Page
 The landing page introduces the platform with the tagline "Your videos, captioned instantly" and highlights that it is powered by Groq Whisper and LLaMA 3.3 70B.
