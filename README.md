@@ -86,5 +86,8 @@ The landing page introduces the platform with the tagline "Your videos, captione
 7.2 About Page
 The About page explains the motivation behind the project and highlights four key selling points: speed, accuracy, multilingual support, and data privacy
 ![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/4decd614e769935f5e3b5a650f0146b2e3bf3f35/a2.jpg)
+7.4 Login Page
+Registered users can sign in using their email and password to access their dashboard and saved transcripts.
+![image alt]()
 
 
