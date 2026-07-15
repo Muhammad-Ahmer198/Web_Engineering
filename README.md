@@ -88,6 +88,6 @@ The About page explains the motivation behind the project and highlights four ke
 ![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/4decd614e769935f5e3b5a650f0146b2e3bf3f35/a2.jpg)
 7.4 Login Page
 Registered users can sign in using their email and password to access their dashboard and saved transcripts.
-![image alt]()
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/690a6ec5da18997fd15aaa06923e038b2128a4d3/a3.jpg)
 
 
