@@ -81,7 +81,9 @@ The screenshot below shows the folder and file organization of the Transcripto A
 7. User Interface — Screenshots
 7.1 Home Page
 The landing page introduces the platform with the tagline "Your videos, captioned instantly" and highlights that it is powered by Groq Whisper and LLaMA 3.3 70B.
+![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/5b0eb433a8c72879b9edbfc477778a9aaf240ce1/a1.jpg)
 7.2 About Page
 The About page explains the motivation behind the project and highlights four key selling points: speed, accuracy, multilingual support, and data privacy
+![image alt]()
 
 
