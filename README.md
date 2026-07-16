@@ -91,7 +91,7 @@ Registered users can sign in using their email and password to access their dash
 ![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/690a6ec5da18997fd15aaa06923e038b2128a4d3/a3.jpg)
 7.3 Upload Page (Upload Feature)
 The Upload page is the core feature of the application. Users can select or drag-and-drop an audio/video file, which is then sent to the backend for AI-based transcription. This page uses the UploadCard component described in Section 5.3, which emits file-selected and upload events back to the parent view.
-![image alt](https://github.com/Muhammad-Ahmer198/Web_Engineering/blob/d82a5d473da9c7c881744b3102079031bbcd2f98/a7.jpg)
+![image alt]()
 8. Conclusion
 The Transcripto AI project demonstrates a complete, modular full-stack architecture. The frontend is built with Vue 3, using reusable components, Vue Router for SPA navigation, Props for parent-to-child communication, and Custom Events for child-to-parent communication. The backend integrates Groq Whisper and LLaMA 3.3 70B for fast and accurate AI transcription and translation, with Cloudinary and FFmpeg handling video storage and caption burning.
 Overall, the platform is responsive, well organized, and provides a practical solution for fast, multilingual video captioning.
